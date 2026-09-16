@@ -1,0 +1,10 @@
+.git
+.gitignore
+node_modules
+data
+public/uploads
+public/apos-frontend
+apos-build
+release-id
+npm-debug.log
+.DS_Store
